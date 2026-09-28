@@ -1,0 +1,1 @@
+Project Code Uploaded: You successfully navigated to your Arduino project folder via the terminal and pushed your predictive_measurement.ino file to your GitHub repository (Predictive_maintenance_system_design).   Repository Verified: Your code is safely stored and visible on GitHub under your aninz04 account.
